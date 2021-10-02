@@ -43,6 +43,16 @@
 ---
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ngunner15's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngunner15&theme=slateorange&count_private=true&show_icons=true&hide_border=true&hide=stars" />
