@@ -2,7 +2,7 @@
 
 ## I'm an Electrical Engineer, Amature Cricketer & Footballer, Web Developer!!!
 
-- 🔭 I just started my first Web Developer Job at Revive Superfoods
+- 🔭 Currently working as a Full Stack Developer at BC Public Service
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I am a big supporter of Arsenal Football Club.
 
