@@ -46,7 +46,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/jamesgeorge007/github-activity-readme/issues/37) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#4](https://github.com/bcgov-nr/auth-sync-app/pull/4) in [bcgov-nr/auth-sync-app](https://github.com/bcgov-nr/auth-sync-app)
 <!--END_SECTION:activity-->
 
 </details>
