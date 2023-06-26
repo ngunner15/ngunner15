@@ -46,7 +46,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/bcgov-nr/nr-broker/issues/82) in [bcgov-nr/nr-broker](https://github.com/bcgov-nr/nr-broker)
+1. 💪 Opened PR [#288](https://github.com/BCDevOps/nr-apm-stack/pull/288) in [BCDevOps/nr-apm-stack](https://github.com/BCDevOps/nr-apm-stack)
 <!--END_SECTION:activity-->
 
 </details>
