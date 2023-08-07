@@ -46,7 +46,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/bcgov-nr/nr-broker/pull/92) in [bcgov-nr/nr-broker](https://github.com/bcgov-nr/nr-broker)
+1. 🎉 Merged PR [#312](https://github.com/BCDevOps/nr-apm-stack/pull/312) in [BCDevOps/nr-apm-stack](https://github.com/BCDevOps/nr-apm-stack)
 <!--END_SECTION:activity-->
 
 </details>
