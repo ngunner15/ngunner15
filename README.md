@@ -46,7 +46,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#496](https://github.com/bcgov-nr/nr-funbucks/pull/496) in [bcgov-nr/nr-funbucks](https://github.com/bcgov-nr/nr-funbucks)
+1. 💪 Opened PR [#335](https://github.com/BCDevOps/nr-apm-stack/pull/335) in [BCDevOps/nr-apm-stack](https://github.com/BCDevOps/nr-apm-stack)
 <!--END_SECTION:activity-->
 
 </details>
