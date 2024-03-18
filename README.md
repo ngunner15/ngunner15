@@ -46,7 +46,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/bcgov-nr/auth-sync-app/pull/37) in [bcgov-nr/auth-sync-app](https://github.com/bcgov-nr/auth-sync-app)
+1. 💪 Opened PR [#911](https://github.com/bcgov/nr-spar/pull/911) in [bcgov/nr-spar](https://github.com/bcgov/nr-spar)
 <!--END_SECTION:activity-->
 
 </details>
