@@ -46,7 +46,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1141](https://github.com/bcgov/nr-spar/issues/1141#issuecomment-2153562107) in [bcgov/nr-spar](https://github.com/bcgov/nr-spar)
+1. 🗣 Commented on [#1142](https://github.com/bcgov/nr-spar/issues/1142#issuecomment-2163575739) in [bcgov/nr-spar](https://github.com/bcgov/nr-spar)
 <!--END_SECTION:activity-->
 
 </details>
