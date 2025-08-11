@@ -46,7 +46,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2058](https://github.com/bcgov/nr-spar/pull/2058) in [bcgov/nr-spar](https://github.com/bcgov/nr-spar)
+1. ❗ Opened issue [#260712](https://github.com/microsoft/vscode/issues/260712) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 </details>
