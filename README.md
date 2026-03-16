@@ -46,7 +46,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2357](https://github.com/bcgov/nr-spar/issues/2357) in [bcgov/nr-spar](https://github.com/bcgov/nr-spar)
+1. ℹ️ Labeled PR [#2389](https://github.com/bcgov/nr-spar/pull/2389) in [bcgov/nr-spar](https://github.com/bcgov/nr-spar)
 <!--END_SECTION:activity-->
 
 </details>
