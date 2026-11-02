@@ -46,7 +46,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#2786](https://github.com/bcgov/nr-spar/issues/2786) in [bcgov/nr-spar](https://github.com/bcgov/nr-spar)
+1. ℹ️ Assigned issue [#2615](https://github.com/bcgov/nr-spar/issues/2615) in [bcgov/nr-spar](https://github.com/bcgov/nr-spar)
 <!--END_SECTION:activity-->
 
 </details>
